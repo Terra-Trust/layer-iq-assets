@@ -1,0 +1,5 @@
+name = "terra-trust-assets"
+compatibility_date = "2025-11-28"
+
+[site]
+bucket = "."
